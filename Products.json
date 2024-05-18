@@ -1,0 +1,60 @@
+[
+  {
+    "id" : 1,
+    "name": "Pierogi",
+    "price": 70.0,
+    "image_url": "https://raw.githubusercontent.com/EnessK22/MyFoods/main/pierogi.jpeg"
+  },
+  {
+    "id" : 2,
+    "name": "Steak",
+    "price": 120.0,
+    "image_url": "https://raw.githubusercontent.com/EnessK22/MyFoods/main/steak.png"
+  },
+  {
+    "id" : 3,
+    "name": "Burgers",
+    "price": 45.0,
+    "image_url": "https://raw.githubusercontent.com/EnessK22/MyFoods/main/burgers.jpg"
+  },
+  {
+    "id" : 4,
+    "name": "İskender",
+    "price": 50.0,
+    "image_url": "https://raw.githubusercontent.com/EnessK22/MyFoods/main/iskender.png"
+  },
+  {
+    "id" : 5,
+    "name": "Pizza",
+    "price": 35.0,
+    "image_url": "https://raw.githubusercontent.com/EnessK22/MyFoods/main/pizza.png"
+  },
+  {
+    "id" : 6,
+    "name": "Lasagna",
+    "price": 75.0,
+    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/lazanya.png"
+  },
+  {
+    "id" : 7,
+    "name": "Turkish Doner",
+    "price": 50.0,
+    "image_url": "https://raw.githubusercontent.com/EnessK22/MyFoods/main/turkish_doner.png"
+  },
+  {
+    "id" : 8,
+    "name": "Soup",
+    "price": 35.0,
+    "image_url": "https://raw.githubusercontent.com/EnessK22/MyFoods/main/soup.png"
+  },
+  {
+    "id" : 9,
+    "name": "Turkish Kebab",
+    "price": 30.0,
+    "image_url": "https://raw.githubusercontent.com/EnessK22/MyFoods/main/Turkish-Kebabs-min.jpg"
+  }
+
+
+
+
+]
